@@ -1,6 +1,6 @@
 # Application-de-livraison-des-repas
 
-installer virtual server i.e XAMPP sur votre PC
+Installer virtual server i.e XAMPP sur votre PC
 
 Ouvrez d'abord le serveur wampp/xampp puis rendez-vous sur phpmyadmin
 
